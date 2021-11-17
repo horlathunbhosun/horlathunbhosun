@@ -16,9 +16,8 @@
 <br />
 
 
-Hi. I’m Olulode Olatunbosun. I am a Software Developer from Nigeria.
-Passionate Fullstack Developer with 3+ years experience developing web application and API using Php (Laravel/Codeigniter), Javascript ,Nodejs and WordPress.
-Looking to join your development team where my skills will be utilized in the design of scalable, data-driven, modular products that can be adapted to meet changing business requirements.
+Hi. I’m Olulode Olatunbosun. I am a Software Engineer from Nigeria, who is proficient working with Tools and Technologies such as JavaScript, PHP, Larevel, Codeigniter, Java SpringBoot, SQL, PostgreSQL, MySQL, Linux, Shell Commands (Windows and Unix), and Git (Version Control). Experienced with all stages of the software development cycle, and agile methodology. With hands-on experience in building APIs and applications that drive business growth. My passion lies in continuous learning and improvement
+
 
 
 
