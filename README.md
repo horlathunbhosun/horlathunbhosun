@@ -16,7 +16,7 @@
 <br />
 
 
-Hi. I’m Olulode Olatunbosun. I am a Software Engineer from Nigeria, who is proficient working with Tools and Technologies such as JavaScript, PHP, Larevel, Codeigniter, Java SpringBoot, SQL, PostgreSQL, MySQL, Linux, Shell Commands (Windows and Unix), and Git (Version Control). Experienced with all stages of the software development cycle, and agile methodology. With hands-on experience in building APIs and applications that drive business growth. My passion lies in continuous learning and improvement
+Hello there! I'm a backend engineer with over 4 years of industry experience based in Lagos, Nigeria. Throughout my career, I have acquired a wealth of knowledge in software development life cycle (SDLC) and building solutions that meet clients' needs and exceed their expectations. I work with a wide range of programming languages and tools, including PHP, JAVA, GO, SpringBoot, Laravel, CodeIgniter, MySQL, PostgreSQL, Linux, Redis, and JavaScript, among others. My expertise in these areas has enabled me to develop high-quality, scalable, and maintainable applications. I am passionate about using technology to solve complex problems and always striving to learn and improve my skills.
 
 
 
