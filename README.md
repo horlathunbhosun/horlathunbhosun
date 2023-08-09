@@ -1,13 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-
 <br/>
+
 
 
 ![Alt Text](./img/coverimg.jpg)
 
-Hello there! I am a seasoned backend engineer with more than 5 years of experience in the industry, currently based in Lagos, Nigeria. Throughout my career, I have gained extensive expertise in various aspects of software development life cycle (SDLC) and possess a proven track record of delivering solutions that not only meet clients' requirements but also surpass their expectations.
+Hello there! I am Senior Software Engineer with more than 5 years of experience in the industry, currently based in Lagos, Nigeria. Throughout my career, I have gained extensive expertise in various aspects of software development life cycle (SDLC) and possess a proven track record of delivering solutions that not only meet clients' requirements but also surpass their expectations.
 
 My proficiency extends across a wide range of programming languages and tools, including PHP, JAVA, GO, SpringBoot, Laravel, CodeIgniter, MySQL, PostgreSQL, Linux, Redis, and JavaScript, among others. This diverse skill set empowers me to develop high-quality, scalable, and maintainable applications that align with industry best practices.
 
@@ -17,6 +16,13 @@ I am deeply passionate about utilizing technology to tackle intricate problems a
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horlathunbhosun&label=Profile%20views&color=0e75b6&style=flat" alt="horlathunbhosun" /> </p>
+
+<a href="https://www.linkedin.com/in/olulode-olatunbosun/" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/linkedin.png" /></a>
+<a href="https://instagram.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/instagram.png" /></a>
+<a href="https://twitter.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/twitter.png" /></a>
+
+<br/>
+
 
 <!--
 **horlathunbhosun/horlathunbhosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +53,9 @@ Here are some ideas to get you started:
 
 ## Languages and DataStore
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> 
+<img alt="JAVA" src="https://img.shields.io/badge/-JAVA-23ED8B00?style=flat-square&logo=php&logoColor=white" /> 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 
 ## Framework and Libraries
