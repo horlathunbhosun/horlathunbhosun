@@ -17,14 +17,17 @@ I am deeply passionate about utilizing technology to tackle intricate problems a
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horlathunbhosun&label=Profile%20views&color=0e75b6&style=flat" alt="horlathunbhosun" /> </p>
 
-<a href="https://www.linkedin.com/in/olulode-olatunbosun/" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/linkedin.png" /></a>
-<a href="https://instagram.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/instagram.png" /></a>
-<a href="https://twitter.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/twitter.png" /></a>
 
-<br/>
 
+<!-- <img align="left" alt="@leon0399" width="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" /> -->
 
 <!--
+<a href="https://www.linkedin.com/in/olulode-olatunbosun/" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/linkedin.png" /></a>
+<a href="https://instagram.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/instagram.png" /></a>
+<a href="https://www.linkedin.com/in/olulode-olatunbosun/" target="_blank"> ![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<br/>
+
 **horlathunbhosun/horlathunbhosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://discord.gg/XTW52Kt">
@@ -74,7 +77,10 @@ Here are some ideas to get you started:
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Hetzer](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+
 
 
 ### 🪡 IDEs/Editors
@@ -83,6 +89,8 @@ Here are some ideas to get you started:
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Goland](https://img.shields.io/badge/Goland-000000.svg?style=for-the-badge&logo=Goland&logoColor=white)
+
 
 
 
