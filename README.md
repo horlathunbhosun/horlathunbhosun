@@ -6,7 +6,7 @@
 
 ![Alt Text](./img/coverimg.jpg)
 
-Hello there! I am Senior Software Engineer with more than 5 years of experience in the industry, currently based in Lagos, Nigeria. Throughout my career, I have gained extensive expertise in various aspects of software development life cycle (SDLC) and possess a proven track record of delivering solutions that not only meet clients' requirements but also surpass their expectations.
+Hello there! I am Software Engineer with more than 4 years of experience in the industry, currently based in Saint Étienne-du-rouvray, France. Throughout my career, I have gained extensive expertise in various aspects of software development life cycle (SDLC) and possess a proven track record of delivering solutions that not only meet clients' requirements but also surpass their expectations.
 
 My proficiency extends across a wide range of programming languages and tools, including PHP, JAVA, GO, SpringBoot, Laravel, CodeIgniter, MySQL, PostgreSQL, Linux, Redis, and JavaScript, among others. This diverse skill set empowers me to develop high-quality, scalable, and maintainable applications that align with industry best practices.
 
