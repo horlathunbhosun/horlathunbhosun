@@ -6,11 +6,13 @@
 
 ![Alt Text](./img/coverimg.jpg)
 
-Hello there! I am Software Engineer with more than 4 years of experience in the industry, currently based in Saint Étienne-du-rouvray, France. Throughout my career, I have gained extensive expertise in various aspects of software development life cycle (SDLC) and possess a proven track record of delivering solutions that not only meet clients' requirements but also surpass their expectations.
+Hello there! I am olatunbosun olulode a fullstack Software engineer  with  major into backend  I have been developing  since my entry into university with about 7years into development, starting out with learning basis of computer science , and progressed into web design and now more into backend development. I have been building  on over 3+ years  of professional experience.
 
-My proficiency extends across a wide range of programming languages and tools, including PHP, JAVA, GO, SpringBoot, Laravel, CodeIgniter, MySQL, PostgreSQL, Linux, Redis, and JavaScript, among others. This diverse skill set empowers me to develop high-quality, scalable, and maintainable applications that align with industry best practices.
+My past work experience  have been around majorly startups and I am open for new opportunities.
 
-I am deeply passionate about utilizing technology to tackle intricate problems and consistently strive to enhance my knowledge and skills. By staying abreast of the latest advancements and trends in the field, I ensure that I am equipped to provide innovative and efficient solutions.
+I have also mentored a two junior brothers into been a software engineer the likes of Oluwatoyin Akinbobola -link to your LinkedIn .   I am lead the development of about 2 product for local to production with working with other engineers, Products like A1tutor, Myadmisisonlink  I looking forward to be a Techincal project manager  and a Leading tech consultant in the future.  
+
+Currently  in France for my masters education in software engineering  and digital transformation  which in progress. In my spare time, I chill, listening to music, roller skate , ride bicycle  and read articles related to technical content.
 
 
 
@@ -22,6 +24,8 @@ I am deeply passionate about utilizing technology to tackle intricate problems a
 <!-- <img align="left" alt="@leon0399" width="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 " /> -->
 
+
+
 <!--
 <a href="https://www.linkedin.com/in/olulode-olatunbosun/" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/linkedin.png" /></a>
 <a href="https://instagram.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/instagram.png" /></a>
@@ -32,6 +36,11 @@ I am deeply passionate about utilizing technology to tackle intricate problems a
 
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  Hello there! I am Software Engineer with more than 4 years of experience in the industry, currently based in Saint Étienne-du-rouvray, France. Throughout my career, I have gained extensive expertise in various aspects of software development life cycle (SDLC) and possess a proven track record of delivering solutions that not only meet clients' requirements but also surpass their expectations.
+
+My proficiency extends across a wide range of programming languages and tools, including PHP, JAVA, GO, SpringBoot, Laravel, CodeIgniter, MySQL, PostgreSQL, Linux, Redis, and JavaScript, among others. This diverse skill set empowers me to develop high-quality, scalable, and maintainable applications that align with industry best practices.
+
+I am deeply passionate about utilizing technology to tackle intricate problems and consistently strive to enhance my knowledge and skills. By staying abreast of the latest advancements and trends in the field, I ensure that I am equipped to provide innovative and efficient solutions. 
 </a>
 <a href="https://twitter.com/olaolulode">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
