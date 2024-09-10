@@ -10,7 +10,7 @@ Hello there! I am olatunbosun olulode a fullstack Software engineer  with  major
 
 My past work experience  have been around majorly startups and I am open for new opportunities.
 
-I have also mentored a two junior brothers into been a software engineer the likes of Oluwatoyin Akinbobola -link to your LinkedIn .   I am lead the development of about 2 product for local to production with working with other engineers, Products like A1tutor, Myadmisisonlink  I looking forward to be a Techincal project manager  and a Leading tech consultant in the future.  
+I have also mentored a two students into been a software engineer the likes of Oluwatoyin Akinbobola -link to your LinkedIn .   I am lead the development of about 2 product for local to production with working with other engineers, Products like A1tutor, Myadmisisonlink  I looking forward to be a Techincal project manager  and a Leading tech consultant in the future.  
 
 Currently  in France for my masters education in software engineering  and digital transformation  which in progress. In my spare time, I chill, listening to music, roller skate , ride bicycle  and read articles related to technical content.
 
